@@ -9,7 +9,7 @@
 3. Navigate to the folder
 4. Open the terminal in the folder
 5. Run the `pip install -r requirements.txt` command
-6. Run the `python main.py`
+6. Run the `python main.py` command
 
 ---
 
