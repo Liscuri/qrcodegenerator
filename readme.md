@@ -15,18 +15,15 @@
 
 <h2>How to use 📝</h2>
 
-
 1. Enter the text or link you want to convert to QR Code
 2. Choose if you want to change any data of the QR Code
 3. If you want to change the data, enter the new data. If you don't want to do this continue to `step 4`
 4. Choose the name of the file
 5. The image will be saved in the images folder
 
-
 ---
 
-<h2>How to contribute 🤝</h2>
-
+<h2>How to support ❤️</h2>
 
 You can contribute to this project by just leaving a star! ⭐
 
@@ -34,19 +31,18 @@ You can contribute to this project by just leaving a star! ⭐
 
 <h2>Known issues ⚙️</h2>
 
-
 The `fill_color` and `back_color` are not working. This is due to the library.
 
 **If there are any other issues found please leave an issue!**
 
 ---
 
-<h2>Technical Information 🛠️</h2>
+<h2>Used Libraries 🛠️</h2>
 
-| **Used**             | **Version** |
-|----------------------|-------------|
-| **Python**           | **3.11**    |
-| **qrcode library**   | **7.4.2**   |
-| **colorama library** | **0.4.6**   |
+| **Used**                                                                       | **Version** |
+|--------------------------------------------------------------------------------|-------------|
+| **<a href="https://www.python.org/downloads/release/python-3113/">Python</a>** | **3.11**    |
+| **<a href="https://pypi.org/project/qrcode/">qrcode library<a>**               | **7.4.2**   |
+| **<a href="https://pypi.org/project/colorama/">colorama library</a>**          | **0.4.6**   |
 
 ---
