@@ -37,7 +37,7 @@ The `fill_color` and `back_color` are not working. This is due to the library.
 
 ---
 
-<h2>Used Libraries 🛠️</h2>
+<h2>Used libraries 🛠️</h2>
 
 | **Used**                                                                       | **Version** |
 |--------------------------------------------------------------------------------|-------------|
